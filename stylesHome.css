@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(196, 196, 0, 0.582);
+}
+
+.boton1 {
+    height: 5rem;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+.boton2 {
+    height: 5rem;
+    background-color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+.boton3 {
+    height: 5rem;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+.boton4 {
+    height: 5rem;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+.slider {
+    height: 50rem;
+    background-color: rgb(185, 255, 212);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.marge {
+    background-color: blue;
+    height: 40rem;
+}
+
+.homer {
+    background-color: white;
+    height: 20rem;
+    width: 50%;
+}
+
+.bart {
+    background-color: red;
+    height: 20rem;
+    width: 50%;
+}
+.lisa {
+    background-color: red;
+    height: 20rem;
+    width: 50%;
+}
+
+.maggie {
+    background-color: skyblue;
+    height: 20rem;
+    width: 50%;
+}
+a {    
+    color: rgb(61, 61, 10);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a:hover {
+    background-color: pink;
+    color: yellow;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+}
+.imagen{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
